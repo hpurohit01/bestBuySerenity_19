@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services CRUD test with steps","creating and verify the category data to an application","ERROR","2022-01-10T23:12:36.257Z[Europe/London]","0.0","0.17"
+"Services CRUD test with steps","Update and verify the data in category application","ERROR","2022-01-10T23:12:36.428Z[Europe/London]","0.0","0.02"
+"Services CRUD test with steps","Deleting and verify the product is deleted","ERROR","2022-01-10T23:12:36.444Z[Europe/London]","0.0","0.02"

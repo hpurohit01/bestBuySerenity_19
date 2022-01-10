@@ -1,0 +1,9 @@
+com\bestbuyplayground\testbase\ServicesTestBase.class
+com\bestbuyplayground\servicesinfo\ServicesCRUDTestWithSteps.class
+com\bestbuyplayground\testbase\ProductTestBase.class
+com\bestbuyplayground\testbase\StoreTestBase.class
+com\bestbuyplayground\storeinfo\StoreCRUDTestWithSteps.class
+com\bestbuyplayground\testbase\CategoriesTestBase.class
+com\bestbuyplayground\testbase\TestBase.class
+com\bestbuyplayground\categoriesinfo\CategoriesCRUDTestWithSteps.class
+com\bestbuyplayground\productinfo\ProductCRUDTestWithSteps.class

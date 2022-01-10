@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories CRUD test with steps","This will create new Category","SUCCESS","2022-01-10T23:12:23.925Z[Europe/London]","0.0","6.74"
+"Categories CRUD test with steps","Verify if the Category was created in application","SUCCESS","2022-01-10T23:12:30.724Z[Europe/London]","0.0","0.95"
+"Categories CRUD test with steps","Update Category information and verify the updated information","SUCCESS","2022-01-10T23:12:31.677Z[Europe/London]","0.0","0.33"
+"Categories CRUD test with steps","Delete Category and verify if the Category is deleted","SUCCESS","2022-01-10T23:12:32.005Z[Europe/London]","0.0","0.25"
